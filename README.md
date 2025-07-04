@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Solomon-06&label=Profile%20views&color=0e75b6&style=flat" alt="Solomon-06" /> </p>
 
-- 📁 I’m currently working on [a social media website based on weather!](https://github.com/Stormrage-exe/Dragon-Types.) <img src="https://wizard-arena.ucoz.net/images/4.gif"/>
+- 📁 I’m currently working on [a social media website based on weather!](https://github.com/Solomon-06/Climeo) <img src="https://wizard-arena.ucoz.net/images/4.gif"/>
 
 - 🖥️ I’m currently learning **JavaScript.** <img src="https://wizard-arena.ucoz.net/images/113.gif"/>
 
