@@ -8,7 +8,7 @@
 
 - 🖥️ I’m currently learning **JavaScript.** <img src="https://wizard-arena.ucoz.net/images/113.gif"/>
 
-- 🔍 All of my projects are available at [https://github.com/Solomon-06?tab=projects](https://github.com/Solomon-06?tab=projects) <img src="https://wizard-arena.ucoz.net/images/39.gif"/>
+- 🔍 All of my projects are available in [my repositories!](https://github.com/Solomon-06?tab=repositories) <img src="https://wizard-arena.ucoz.net/images/39.gif"/>
 
 
 - 📫 How to reach me **biasolo0611@gmail.com** <img src="https://wizard-arena.ucoz.net/images/101.gif"/>
